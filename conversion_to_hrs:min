@@ -1,0 +1,1 @@
+IIf(Int([Text1]) > 0, Int([Text1]) & "h ", "") & Round((Abs([Text1] - Int([Text1])) * 60), 0) & "min"
