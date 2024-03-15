@@ -1,0 +1,3 @@
+Mid([Resource Names], InStr([Resource Names], "[") + 1, InStr([Resource Names], "%") - InStr([Resource Names], "[") - 1)
+/100
+* 8
