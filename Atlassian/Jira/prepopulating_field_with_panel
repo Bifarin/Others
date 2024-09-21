@@ -1,0 +1,13 @@
+{{issue.description}}
+----
+Template added by automation:
+
+{panel:title=Context|bgColor=#deebff}
+Put the Context Here
+{panel}
+{panel:title=Value|bgColor=#eae6ff}
+Put your Value here
+{panel}
+{panel:title=Acceptance Criteria|bgColor=#e3fcef}
+Put the ACs here
+{panel}
